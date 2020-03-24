@@ -3,5 +3,5 @@
 # To create the container
 
 ```bash
-docker-compose up
+docker-compose run app
 ```
